@@ -184,6 +184,14 @@ h3 {
     background: var(--surface);
 }
 
+.resume-section {
+    background: #eef3f6;
+}
+
+.resume-section .button {
+    margin-top: 1rem;
+}
+
 .section p {
     color: var(--muted);
     font-size: 1.05rem;
